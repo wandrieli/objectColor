@@ -1,0 +1,65 @@
+body{
+    font-family: Consolas;
+    background-color: lightcoral;
+    padding: 20px;
+    margin-bottom: 40px;
+  
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.label {
+    min-width: 150px;
+}
+
+.range {
+    min-width: 400px;
+}
+
+h1{
+    text-align: center;
+}
+
+footer{
+    position:absolute;
+    bottom:0;
+    width:100%;
+    text-align: center;
+}
+
+.text {
+    width: 50px;
+    margin-left: 10px;
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+    border: 1px solid lightgray;
+    margin-top: 20px;
+    margin-left: 690px;
+}
+
+.cicle {
+    width: 100px;
+    height: 100px;
+    border: 1px solid lightgray;
+    margin-top: 20px;
+    margin-left: 690px;
+    border-radius: 50%;
+}
+
+.florDaVida {
+    width: 200px;
+    height: 200px;
+    border: 10px solid lightgray;
+    margin-top: 20px;
+    margin-left: 690px;
+    border-radius: 50%;
+    border-radius: 50%;
+}
